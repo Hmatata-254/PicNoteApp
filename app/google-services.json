@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758951561754",
+    "project_id": "picnote-a80c9",
+    "storage_bucket": "picnote-a80c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758951561754:android:3c8c96dc1c60ecb2da9fa3",
+        "android_client_info": {
+          "package_name": "com.example.picnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LaeE9kLVtXAI58dyoIyDxaM-V_ICPPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

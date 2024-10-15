@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PicNote</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_email">Enter email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register_account">Register account.</string>
+    <string name="user_name">User name</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="create_account">Create account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="topic">Topic</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="upload_image">Upload image</string>
+    <string name="see_date">See date</string>
+    <string name="save">Save</string>
+    <string name="enter_topic">Enter topic</string>
+    <string name="set_date">Set date</string>
+    <string name="upload_data">Upload data</string>
+    <string name="update_data">Update data</string>
+    <string name="welcome">Welcome!</string>
+</resources>
